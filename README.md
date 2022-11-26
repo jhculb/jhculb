@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhculb
+- 👋 Hi, I’m Jack Culbert
 - 👀 I’m interested in Natural Language Processing, Machine Learning, Knowledge Graphs and the Semantic Web
 - 🌱 I’m currently learning German, the finer points on Python & Azure, and checking out the state of ML in Rust.
 - 💞️ I’m looking to collaborate on Information Extraction, Sentiment Analysis, Machine Translation, Text Generation projects
