@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jack Culbert
-- 👀 I’m interested in Natural Language Processing, Machine Learning, Knowledge Graphs and the Semantic Web
-- 🌱 I’m currently learning German, the finer points on Python & Azure, and checking out the state of ML in Rust.
-- 💞️ I’m looking to collaborate on Information Extraction, Sentiment Analysis, Machine Translation, Text Generation projects
-- 📫 How to reach me: Linkedin - /in/jack-c-2485989a/, Twitter - @jack_culbert
+- 👀 I’m interested in Knowledge Graphs, Machine Learning (In particular Graph Attention Networks), Natural Language Processing and the Semantic Web
+- 🌱 I’m currently doctoral student at GESIS - Leibniz Institute for the Social Sciences and learning German.
+- 💞️ I’m looking to collaborate on Graph Inference and Information extraction projects
+- 📫 How to reach me: Linkedin - /in/jack-c-2485989a/, ORCID - https://orcid.org/0009-0000-1581-4021
 
 <!---
 jhculb/jhculb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
